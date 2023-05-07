@@ -1,0 +1,26 @@
+[
+    {
+        "title": "E-commerce Website",
+        "description": "A fully functional e-commerce website built with React and Redux. Features include product listings, cart, checkout, and payment processing using Stripe API.",
+        "image": "https://via.placeholder.com/300x200.png?text=E-commerce+Website",
+        "link": "https://example.com/ecommerce"
+    },
+    {
+        "title": "Blog Website",
+        "description": "A simple blog website built with Node.js and Express. Features include CRUD operations for blog posts, comments, and user authentication using Passport.js.",
+        "image": "https://via.placeholder.com/300x200.png?text=Blog+Website",
+        "link": "https://example.com/blog"
+    },
+    {
+        "title": "Mobile App",
+        "description": "A mobile app built with React Native. Features include user authentication, push notifications, and geolocation tracking using Firebase and Google Maps API.",
+        "image": "https://via.placeholder.com/300x200.png?text=Mobile+App",
+        "link": "https://example.com/mobile-app"
+    },
+    {
+        "title": "Data Visualization Dashboard",
+        "description": "A data visualization dashboard built with D3.js and React. Features include interactive charts and graphs for visualizing data from a variety of sources.",
+        "image": "https://via.placeholder.com/300x200.png?text=Data+Visualization+Dashboard",
+        "link": "https://example.com/dashboard"
+    }
+]
